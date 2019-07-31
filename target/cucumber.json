@@ -1,0 +1,116 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2019-07-31T20:24:46.197Z",
+        "line": 3,
+        "name": "345",
+        "description": "",
+        "id": "123;345",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4515984473,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am open \"https://vk.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://vk.com/\"",
+                  "offset": 10
+                }
+              ],
+              "location": "MyStepdefs.iAmOpen(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 443806663,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I swich langauge to English",
+            "match": {
+              "location": "MyStepdefs.iSwichLangaugeToEnglish()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1260450585,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I check title \"VK for mobile devices\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"VK for mobile devices\"",
+                  "offset": 14
+                }
+              ],
+              "location": "MyStepdefs.iCheckTitle(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 147622031,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I swich langauge to Russian",
+            "match": {
+              "location": "MyStepdefs.iSwichLangaugeToRussian()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1051395082,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I check title \"ВКонтакте для мобильных устройств\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"ВКонтакте для мобильных устройств\"",
+                  "offset": 14
+                }
+              ],
+              "location": "MyStepdefs.iCheckTitle(String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@all"
+          }
+        ]
+      }
+    ],
+    "name": "123",
+    "description": "",
+    "id": "123",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/feature/FirstTest.feature",
+    "tags": [
+      {
+        "name": "@all",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
