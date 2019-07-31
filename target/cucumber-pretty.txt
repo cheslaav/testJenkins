@@ -1,0 +1,10 @@
+@all
+Feature: 123
+
+  @all
+  Scenario: 345                                           [90m# src/test/java/feature/FirstTest.feature:3[0m
+    [32mGiven [0m[32mI am open [0m[32m[1m"https://vk.com/"[0m                     [90m# MyStepdefs.iAmOpen(String)[0m
+    [32mThen [0m[32mI swich langauge to English[0m                      [90m# MyStepdefs.iSwichLangaugeToEnglish()[0m
+    [32mAnd [0m[32mI check title [0m[32m[1m"VK for mobile devices"[0m             [90m# MyStepdefs.iCheckTitle(String)[0m
+    [32mWhen [0m[32mI swich langauge to Russian[0m                      [90m# MyStepdefs.iSwichLangaugeToRussian()[0m
+    [32mAnd [0m[32mI check title [0m[32m[1m"ВКонтакте для мобильных устройств"[0m [90m# MyStepdefs.iCheckTitle(String)[0m

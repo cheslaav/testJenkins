@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="6.068966">
+<testcase classname="123" name="345" time="6.068966">
+<system-out><![CDATA[Given I am open "https://vk.com/"...........................................passed
+Then I swich langauge to English............................................passed
+And I check title "VK for mobile devices"...................................passed
+When I swich langauge to Russian............................................passed
+And I check title "ВКонтакте для мобильных устройств".......................passed
+]]></system-out>
+</testcase>
+</testsuite>

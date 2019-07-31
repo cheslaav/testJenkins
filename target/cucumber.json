@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2019-07-31T20:24:46.197Z",
+        "start_timestamp": "2019-07-31T20:35:18.731Z",
         "line": 3,
         "name": "345",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4515984473,
+              "duration": 3348133924,
               "status": "passed"
             },
             "line": 4,
@@ -31,7 +31,7 @@
           },
           {
             "result": {
-              "duration": 443806663,
+              "duration": 376458598,
               "status": "passed"
             },
             "line": 5,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 1260450585,
+              "duration": 1214773624,
               "status": "passed"
             },
             "line": 6,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 147622031,
+              "duration": 137143926,
               "status": "passed"
             },
             "line": 7,
@@ -73,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 1051395082,
+              "duration": 969912854,
               "status": "passed"
             },
             "line": 8,
