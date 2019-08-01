@@ -1,4 +1,4 @@
-@prodTest
+@all
 Feature: Мониторинг кабинета на бою
   Scenario: Проверка работоспособности кабинета
     Given I logged in
